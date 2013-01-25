@@ -1,0 +1,18 @@
+SharePoint for Effective Project Management,                                spfepm2007,       true, english, , 1, 262
+Managing Projects with Microsoft Project 2007,                              mpwmp2007,        true, english, , 1, 326
+Microsoft Office Project Server 2007: Project Manager's Guide,              mops2007:pm,      true, english, , 1, 470
+Microsoft Office Project Server 2007: Research and Analysis Guide,          mops2007:r&a,     true, english, , 1, 234
+Microsoft Office Project Server 2007: Administrator's Guide,                mops2007:admin,   true, english, , 1, 464
+Microsoft Office Project Server 2007: Team Member's Guide,                  mops2007:tm,      true, english, , 1, 180
+Managing Projects with Microsoft Project 2010,                              mpwmp2010,        true, english, , 1, 382
+Microsoft Project Server 2010: Project Manager's Guide,                     msps2010:pm,      true, english, , 1, 356
+Microsoft Project Server 2010: Administrator's Guide,                       msps2010:admin,   true, english, , 1, 412
+Microsoft Project Server 2010: Team Member's Guide,                         msps2010:tm,      true, english, , 1, 192
+Microsoft Business Intelligence: Building Executive Dashboards,             bi,               true, english, , 1, 288
+SharePoint for Effective Team Collaboration,                                spfetc2010,       true, english, , 1, 302
+Microsoft Office Project Server 2007: Guía del Administrador de Proyectos,  es mops2007:pm,   true, spanish, , 1, 414
+Microsoft Office Project Server 2007: Guía del Miembro del Equipo,          es mops2007:tm,   true, spanish, , 1, 134
+Administración de Proyectos Práctica,                                       es ppm,           true, spanish, , 1, 178
+Microsoft Access in a SharePoint World,                                     masw,             true, english, , 1, 478
+Managing Requirements Gathering,                                            mrg,              true, english, , 1, 190
+Practical Project Management,                                               ppm,              true, english, , 1, 206
