@@ -1,4 +1,4 @@
-class Product
+module Product
   attr_reader :name, :sku, :language, :price
   def initialize(name, sku, sellable, language)
   	@name = name
